@@ -1,7 +1,3 @@
-# Developed By : <PRIYANSHUL SHARMA>
-# My blog https://priyanshul.is-a.dev/
-
-
 import mysql.connector as pymysql
 from datetime import datetime
 
